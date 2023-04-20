@@ -1,4 +1,4 @@
-# Google Colab AI Demo
+# AI Demo in Google Colab 
 
 | demo | google colab |
 | ---- | ---- |
